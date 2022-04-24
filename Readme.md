@@ -60,7 +60,7 @@ This script has a primitive console user interface which helps user to interact 
 2. Create and activate a virtual environment for the project
     1. When you are inside the folder you have created earlier use this command
         ```sh
-        python3 -m venv env
+        python -m venv env
         ```
     2. Activate virtual environment
         ```sh
@@ -127,8 +127,8 @@ This script has a primitive console user interface which helps user to interact 
         ```
     4. Run script testing_tool.py
         ```
-         python testing_tool.py
-         ```
+        python testing_tool.py
+        ```
     5. Follow the instructions from script
 
 # Test files with data
